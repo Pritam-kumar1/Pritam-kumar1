@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm Pritam Kumar! 👋
 
 ### ☁️ Salesforce Developer | Trailblazer
