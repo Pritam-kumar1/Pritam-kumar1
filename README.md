@@ -33,6 +33,10 @@ Salesforce Certified AI Associate**
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-kumar1&layout=compact&theme=ocean" alt="Top Languages" />
 </p>
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Pritam-kumar1&cc=222&tc=0af&ic=0af&bc=000" alt="Pritam's Stats" />
+</p>
 
 ---
 
