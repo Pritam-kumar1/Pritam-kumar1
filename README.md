@@ -16,15 +16,17 @@ I am a **Salesforce Developer** specializing in building high-performance, scala
 ---
 
 ### 🏆 Certifications & Trailhead
-* **[Insert Cert, e.g., Platform Developer I]**
-* **Trailhead Profile:** [Check out my badges!](https://trailblazer.me/id/your-profile-url)
-* **Rank:** [e.g., Ranger 🤠]
+* **Salesforce Certified Platform Administrator || Salesforce Certified Platform Developer || Salesforce Certified
+Platform Foundations || Salesforce Certified Platform App Builder || Salesforce Certified CPQ Administrator ||
+Salesforce Certified AI Associate**
+* **Trailhead Profile:** [Check out my badges!](https://www.salesforce.com/trailblazer/pkumar2074)
+* **Rank:** Ranger 🤠
 
 ---
 
 ### 📈 GitHub Stats
-![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=ocean)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=ocean)
+![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pritam-kumar1&show_icons=true&theme=ocean)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-kumar1&layout=compact&theme=ocean)
 
 ---
 
@@ -36,8 +38,8 @@ I am a **Salesforce Developer** specializing in building high-performance, scala
 ---
 
 ### 📫 Let's Connect!
-* 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-* 📧 [Email](mailto:yourname@example.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/pritam-kumar-76b300131/)
+* 📧 [Email](mailto:pritamkumar166@gmail.com)
 
 ---
 
