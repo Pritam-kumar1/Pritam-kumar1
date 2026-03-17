@@ -27,6 +27,12 @@ Salesforce Certified AI Associate**
 ### 📈 GitHub Stats
 ![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pritam-kumar1&show_icons=true&theme=ocean)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-kumar1&layout=compact&theme=ocean)
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pritam-kumar1&show_icons=true&theme=ocean&count_private=true" alt="Pritam's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-kumar1&layout=compact&theme=ocean" alt="Top Languages" />
+</p>
 
 ---
 
